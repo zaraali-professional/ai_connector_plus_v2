@@ -1,0 +1,20 @@
+# Environment and secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.log
+
+# Render or build artifacts
+*.sqlite3
