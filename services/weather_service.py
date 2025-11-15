@@ -1,4 +1,4 @@
-
+# weather_service.py
 # Weather Service - Integrates with Open-Meteo API
 # Fetches real-time weather data for major cities
 

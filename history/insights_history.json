@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-11-15T17:07:54.021176",
+    "type": "weather_v2",
+    "city": "Cairo",
+    "data": {
+      "city": "Cairo",
+      "temperature": 24.4,
+      "unit": "°C",
+      "insight": "Hey there, Cairo! 🌤️ It's a lovely day at 24.4°C, great for exploring the city or enjoying a relaxing picnic in the park! 🌳☕️",
+      "language": "en",
+      "audio_file": "tts_2982d82a6ce1aadd2d061f6f2989d241.mp3"
+    }
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-11-15T16:58:36.192381",
+    "type": "weather_v2",
+    "city": "Cairo",
+    "data": {
+      "city": "Cairo",
+      "temperature": 24.2,
+      "unit": "°C",
+      "insight": "Hey there! It's a beautiful day in Cairo with a temperature of 24.2°C 🌤️. Perfect weather for a leisurely stroll along the Nile or enjoying some delicious Egyptian cuisine outdoors!",
+      "language": "en",
+      "audio_file": "audio_files\\tts_cb28f1992922ad2ee643cad9e454d308.mp3"
+    }
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-11-15T15:29:49.718748",
+    "type": "weather_v2",
+    "city": "Riyadh",
+    "data": {
+      "city": "Riyadh",
+      "temperature": 26.4,
+      "unit": "°C",
+      "insight": "يوم جميل في الرياض! 🌤️ درجة الحرارة 26.4°C، مثالية لقضاء وقت جميل في الهواء الطلق أو لتناول قهوة بردة!",
+      "language": "ar",
+      "audio_file": "audio_files\\tts_b783c97e5795a653dcaf127a5b3c9ab5.mp3"
+    }
+  }
+]
